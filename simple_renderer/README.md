@@ -1,5 +1,4 @@
 # Introduction to Computer Graphics (CS7.302, IIIT Hyderabad)
-This is the base code that is to be used for all assignments in the above course. <br>
 Some sample scenes are given in the <a href="https://github.com/cs7-302-graphics/scenes">cs7-302-graphics/scenes</a> repo.
 
 Instructions to clone, compile and run are given below.
